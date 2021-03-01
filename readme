@@ -1,0 +1,6 @@
+du.c 
+Usage: du [OPTION]... [FILE]...
+Summarize disk usage of the set of FILEs, recursively for directories.
+ 
+Option:
+-a   --all   write counts for all files, not just directories 
